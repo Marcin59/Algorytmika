@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9252a607-b911-4746-b863-60fc49d0c0be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwx3T52GYZ35n2AHX9Z38HYeFT" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Programowanie dynamiczne" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Zaawansowane metody konstruowania i analizowania algorytmów\Programowanie naiwne" />
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Zaawansowane metody konstruowania i analizowania algorytmów\Programowanie dynamiczne" />
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Zaawansowane metody konstruowania i analizowania algorytmów" />
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Sortowanie i statystyki pozycyjne\Metoda dziel i zwyciężaj" />
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Sortowanie i statystyki pozycyjne\Sortowanie list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\Desktop\Olimpiada\Wprowadzenie do algorytmów\Zaawansowane metody konstruowania i analizowania algorytmów\Programowanie dynamiczne" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Kosaraju_algorithm">
+    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe/DFS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kosaraju_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe/Kosaraju_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Print_Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe/Print_Paths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tarjan's Strongly Connected Component (SCC)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe/Tarjan's Strongly Connected Component (SCC).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Topsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zaawansowane metody konstruowania i analizowania algorytmów/Podstawowe Algorytmy Grafowe/Topsort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Wprowadzenie do algorytmów" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\marci\PycharmProjects\p_3.8\pio\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Print_Paths" />
+      <item itemvalue="Python.DFS" />
+      <item itemvalue="Python.Topsort" />
+      <item itemvalue="Python.Tarjan's Strongly Connected Component (SCC)" />
+      <item itemvalue="Python.Kosaraju_algorithm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Kosaraju_algorithm" />
+        <item itemvalue="Python.Tarjan's Strongly Connected Component (SCC)" />
+        <item itemvalue="Python.Topsort" />
+        <item itemvalue="Python.DFS" />
+        <item itemvalue="Python.Print_Paths" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9252a607-b911-4746-b863-60fc49d0c0be" name="Default Changelist" comment="" />
+      <created>1593349758516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593349758516</updated>
+    </task>
+    <servers />
+  </component>
+</project>
